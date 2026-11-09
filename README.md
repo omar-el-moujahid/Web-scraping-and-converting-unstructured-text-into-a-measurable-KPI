@@ -23,10 +23,4 @@ python -m http.server 8000
 
 Then open http://localhost:8000.
 
-## Data
-
-`data/jobs_sample.csv` and `data/extracted.json` stay local and are ignored by Git. Only the aggregate file `docs/data/kpi.json` is published.
-
-## Limits
-
-The sample is small, and LLM extraction can vary between runs or miss and invent skills. Treat the KPI as an indication, not as proof of market demand.
+**[Voir le dashboard en ligne](https://omar-el-moujahid.github.io/Web-scraping-and-converting-unstructured-text-into-a-measurable-KPI/)**
