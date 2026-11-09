@@ -1,0 +1,185 @@
+{
+  "generated_at": "2026-11-09T20:44:18Z",
+  "postings": [
+    {
+      "title": "Senior / Lead Computer Vision Engineer",
+      "company": "CarCutter",
+      "required_skills": [
+        "AI",
+        "computer vision",
+        "generative AI",
+        "360° video",
+        "image technology",
+        "software engineering"
+      ]
+    },
+    {
+      "title": "Senior / Lead Computer Vision Engineer",
+      "company": "Diffusely",
+      "required_skills": [
+        "AI",
+        "Computer vision",
+        "Generative AI",
+        "360° video",
+        "SaaS"
+      ]
+    },
+    {
+      "title": "Bench & Tools SYS/SW development engineer",
+      "company": "Astemo",
+      "required_skills": [
+        "HIL test benches",
+        "simulation models",
+        "plant models",
+        "custom software tools",
+        "automation",
+        "test execution",
+        "hardware components",
+        "ECUs",
+        "sensors",
+        "actuators",
+        "wiring harnesses",
+        "automotive communication protocols",
+        "CAN",
+        "FlexRay",
+        "Ethernet",
+        "test cases",
+        "validation sequences",
+        "automation solutions",
+        "Python",
+        "MATLAB",
+        "CAPL",
+        "C#",
+        "version control",
+        "CI/CD"
+      ]
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "company": "Parallel",
+      "required_skills": [
+        "AI",
+        "RPA",
+        "computer use solutions"
+      ]
+    },
+    {
+      "title": "Using generative AI to simulate chemically disordered nuclear materials at the atomic level H/F",
+      "company": "Cea - Commissariat à l'Energie Atomique",
+      "required_skills": [
+        "VAE",
+        "Python",
+        "AWS",
+        "Docker",
+        "CPU hours",
+        "configuration space",
+        "generative sampling",
+        "IWAE architecture",
+        "ab initio methods",
+        "nuclear physics",
+        "AI"
+      ]
+    },
+    {
+      "title": "DevOps",
+      "company": "Hilti Group",
+      "required_skills": [
+        "AWS",
+        "Athena",
+        "Glue",
+        "S3",
+        "Redshift",
+        "Terraform",
+        "AWS Bedrocks",
+        "AgentCore",
+        "Sagemaker Studio",
+        "ML Ops",
+        "Agents Ops",
+        "GitLab CI/CD",
+        "CloudWatch",
+        "Datadog"
+      ]
+    },
+    {
+      "title": "L2 -Desktop Support Engineer- French Fluent",
+      "company": "Solutionix Global Services",
+      "required_skills": [
+        "Microsoft Azure",
+        "Endpoint Manager",
+        "Intune",
+        "Azure Active Directory",
+        "Service Now",
+        "remote communications",
+        "printer maintenance",
+        "user account management",
+        "patch/upgrade",
+        "remediate IT hardware"
+      ]
+    },
+    {
+      "title": "Forward Deployed AI Engineer, Internship, France - BCG X",
+      "company": "Boston Consulting Group",
+      "required_skills": []
+    },
+    {
+      "title": "Staff Engineer – AI, Geometry & Meshing",
+      "company": "Synopsys",
+      "required_skills": [
+        "AI/ML",
+        "Computational Geometry",
+        "3D Geometry Processing",
+        "Mesh Generation",
+        "Surface Reconstruction",
+        "Geometry Simplification",
+        "Mesh Quality Optimization"
+      ]
+    },
+    {
+      "title": "Principal Solution Engineer",
+      "company": "Aera Technology",
+      "required_skills": []
+    },
+    {
+      "title": "Pre-Sales Engineer",
+      "company": "Nomad Digital",
+      "required_skills": [
+        "IP networks",
+        "WiFi",
+        "cellular networks",
+        "5G",
+        "LTE",
+        "HSPA+",
+        "WCDMA",
+        "GSM",
+        "Linux platforms"
+      ]
+    },
+    {
+      "title": "Ingénieur junior en intégration logicielle GridOS – DevOps F/H / Junior GridOS Software Integration Engineer – DevOps",
+      "company": "GE Vernova",
+      "required_skills": [
+        "CI/CD pipelines",
+        "microservices",
+        "DevOps",
+        "software integration",
+        "automation",
+        "deployment"
+      ]
+    },
+    {
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "company": "Google",
+      "required_skills": []
+    },
+    {
+      "title": "End-User Technology Engineer",
+      "company": "ANZ",
+      "required_skills": []
+    },
+    {
+      "title": "Mixed-Signal IC Design Engineer",
+      "company": "Arago Consulting",
+      "required_skills": []
+    }
+  ]
+}

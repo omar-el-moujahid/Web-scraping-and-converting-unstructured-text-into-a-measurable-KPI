@@ -1,0 +1,206 @@
+{
+  "service_id": "B-PS-2627A-HB-SE-PS-L-Ma-J-V-04",
+  "metric": "Scheduled stop-visits per representative weekday, per 1,000 residents",
+  "communes": [
+    {
+      "rank": 1,
+      "commune": "La-Chapelle-Saint-Aubin",
+      "population": 2319,
+      "n_stops": 53,
+      "stop_visits": 2343,
+      "busiest_stop": "Émile Delahaye",
+      "visits_per_1000": 1010.3,
+      "top_stop_share": 0.035
+    },
+    {
+      "rank": 2,
+      "commune": "Coulaines",
+      "population": 8226,
+      "n_stops": 105,
+      "stop_visits": 6267,
+      "busiest_stop": "La Paix",
+      "visits_per_1000": 761.9,
+      "top_stop_share": 0.018
+    },
+    {
+      "rank": 3,
+      "commune": "Rouillon",
+      "population": 2666,
+      "n_stops": 41,
+      "stop_visits": 1906,
+      "busiest_stop": "St-Joseph",
+      "visits_per_1000": 714.9,
+      "top_stop_share": 0.099
+    },
+    {
+      "rank": 4,
+      "commune": "Allonnes",
+      "population": 10846,
+      "n_stops": 69,
+      "stop_visits": 4017,
+      "busiest_stop": "Lycée André Malraux",
+      "visits_per_1000": 370.4,
+      "top_stop_share": 0.04
+    },
+    {
+      "rank": 5,
+      "commune": "Arnage",
+      "population": 5548,
+      "n_stops": 34,
+      "stop_visits": 1638,
+      "busiest_stop": "Oasis-Centre des Expositions",
+      "visits_per_1000": 295.2,
+      "top_stop_share": 0.118
+    },
+    {
+      "rank": 6,
+      "commune": "Yvre-l-Eveque",
+      "population": 4269,
+      "n_stops": 22,
+      "stop_visits": 750,
+      "busiest_stop": "Avenue du Mans",
+      "visits_per_1000": 175.7,
+      "top_stop_share": 0.068
+    },
+    {
+      "rank": 7,
+      "commune": "Saint-Saturnin",
+      "population": 2864,
+      "n_stops": 21,
+      "stop_visits": 490,
+      "busiest_stop": "Cinémas CGR",
+      "visits_per_1000": 171.1,
+      "top_stop_share": 0.116
+    },
+    {
+      "rank": 8,
+      "commune": "La-Milesse",
+      "population": 2650,
+      "n_stops": 15,
+      "stop_visits": 425,
+      "busiest_stop": "Four à Chanvre",
+      "visits_per_1000": 160.4,
+      "top_stop_share": 0.202
+    },
+    {
+      "rank": 9,
+      "commune": "Sarge-les-le-Mans",
+      "population": 3941,
+      "n_stops": 15,
+      "stop_visits": 630,
+      "busiest_stop": "Bignon",
+      "visits_per_1000": 159.9,
+      "top_stop_share": 0.067
+    },
+    {
+      "rank": 10,
+      "commune": "Le Mans",
+      "population": 148876,
+      "n_stops": 329,
+      "stop_visits": 22900,
+      "busiest_stop": "Gares",
+      "visits_per_1000": 153.8,
+      "top_stop_share": 0.011
+    },
+    {
+      "rank": 11,
+      "commune": "Ruaudin",
+      "population": 3542,
+      "n_stops": 22,
+      "stop_visits": 536,
+      "busiest_stop": "Guetteloup",
+      "visits_per_1000": 151.3,
+      "top_stop_share": 0.099
+    },
+    {
+      "rank": 12,
+      "commune": "Champagne",
+      "population": 3728,
+      "n_stops": 19,
+      "stop_visits": 425,
+      "busiest_stop": "Auvours",
+      "visits_per_1000": 114.0,
+      "top_stop_share": 0.061
+    },
+    {
+      "rank": 13,
+      "commune": "Mulsanne",
+      "population": 5352,
+      "n_stops": 18,
+      "stop_visits": 525,
+      "busiest_stop": "Stade Mulsanne",
+      "visits_per_1000": 98.1,
+      "top_stop_share": 0.08
+    },
+    {
+      "rank": 14,
+      "commune": "Aigne",
+      "population": 1724,
+      "n_stops": 6,
+      "stop_visits": 138,
+      "busiest_stop": "Mairie Aigné",
+      "visits_per_1000": 80.0,
+      "top_stop_share": 0.167
+    },
+    {
+      "rank": 15,
+      "commune": "Pruille-le-Chetif",
+      "population": 1357,
+      "n_stops": 8,
+      "stop_visits": 88,
+      "busiest_stop": "Stade Asnillé",
+      "visits_per_1000": 64.8,
+      "top_stop_share": 0.125
+    },
+    {
+      "rank": 16,
+      "commune": "Fay",
+      "population": 770,
+      "n_stops": 3,
+      "stop_visits": 44,
+      "busiest_stop": "Église Fay",
+      "visits_per_1000": 57.1,
+      "top_stop_share": 0.5
+    },
+    {
+      "rank": 17,
+      "commune": "Trange",
+      "population": 1678,
+      "n_stops": 6,
+      "stop_visits": 87,
+      "busiest_stop": "Maisons Rouges",
+      "visits_per_1000": 51.8,
+      "top_stop_share": 0.172
+    },
+    {
+      "rank": 18,
+      "commune": "Chaufour-Notre-Dame",
+      "population": 1187,
+      "n_stops": 3,
+      "stop_visits": 58,
+      "busiest_stop": "La Denisière",
+      "visits_per_1000": 48.9,
+      "top_stop_share": 0.5
+    },
+    {
+      "rank": 19,
+      "commune": "Saint-Georges-du-Bois",
+      "population": 2308,
+      "n_stops": 7,
+      "stop_visits": 96,
+      "busiest_stop": "Centre Commercial",
+      "visits_per_1000": 41.6,
+      "top_stop_share": 0.25
+    },
+    {
+      "rank": 20,
+      "commune": "Fatines",
+      "population": 937,
+      "n_stops": 2,
+      "stop_visits": 38,
+      "busiest_stop": "Place de l'Église",
+      "visits_per_1000": 40.6,
+      "top_stop_share": 0.658
+    }
+  ]
+}
